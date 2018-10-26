@@ -4,7 +4,7 @@
 
 This repository contains a ground truth corpus for semantic frame disambiguation, acquired with crowdsourcing and processed with **[CrowdTruth](http://crowdtruth.org/)** metrics that capture ambiguity in annotations by measuring inter-annotator disagreement.
 
-The dataset contains annotations for 433 sentence-word pairs from the [FrameNet corpus v.1.7](https://framenet.icsi.berkeley.edu/), with each sentence-word pair annotated for frame disambiguation by 15 workers. The crowdsourced data was collected from [Amazon Mechanical Turk](https://mturk.com/).
+The dataset contains annotations for 433 sentence-word pairs from the [FrameNet corpus v.1.7](https://framenet.icsi.berkeley.edu/), with each sentence-word pair annotated for frame disambiguation by 15 workers. The crowdsourced data was collected from [Amazon Mechanical Turk](https://www.mturk.com/).
 
 The corpus has been referenced in the following paper:
 
