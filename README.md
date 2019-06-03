@@ -8,7 +8,7 @@ The dataset contains annotations for 433 sentence-word pairs from the [FrameNet 
 
 The corpus has been referenced in the following papers:
 
-* Anca Dumitrache, Lora Aroyo and Chris Welty: **[A Crowdsourced Frame Disambiguation Corpus with Ambiguity](https://arxiv.org/abs/1904.06101)**. [NAACL 2019](https://naacl2019.org/) (in publication).
+* Anca Dumitrache, Lora Aroyo and Chris Welty: **[A Crowdsourced Frame Disambiguation Corpus with Ambiguity](https://arxiv.org/abs/1904.06101)**. [NAACL 2019](https://naacl2019.org/).
 * Anca Dumitrache, Lora Aroyo and Chris Welty: **[Capturing and Interpreting Ambiguity in Crowdsourcing Frame Disambiguation](https://arxiv.org/abs/1805.00270)**. [HCOMP 2018](https://www.humancomputation.com/2018/).
 
 To replicate the data processing from the paper, use the Jupyter Notebook file `CrowdTruth metrics.ipynb`. It requires the installation of the [CrowdTruth metrics](https://github.com/CrowdTruth/CrowdTruth-core) Python package (v >= 2.0).
